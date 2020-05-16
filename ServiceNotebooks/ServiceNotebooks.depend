@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1589580623 source:c:\users\eze-\desktop\parcial\servicenotebooks\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Egil.h"
+
+1589580623 source:c:\users\eze-\desktop\parcial\servicenotebooks\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Egil.h"
+
+1589580623 source:c:\users\eze-\desktop\parcial\servicenotebooks\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Egil.h"
+
+1589580623 source:c:\users\eze-\desktop\parcial\servicenotebooks\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Egil.h"
+
+1589580622 source:c:\users\eze-\desktop\parcial\servicenotebooks\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Egil.h"
+
+1589417114 source:c:\users\eze-\desktop\parcial\servicenotebooks\egil.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Egil.h"
+
+1589336290 c:\users\eze-\desktop\parcial\servicenotebooks\egil.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Egil.h"
+
+1589585384 source:c:\users\eze-\desktop\parcial\servicenotebooks\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"notebook.h"
+	"Egil.h"
+
+1589585384 c:\users\eze-\desktop\parcial\servicenotebooks\notebook.h
+	"tipo.h"
+	"marca.h"
+
+1589585479 c:\users\eze-\desktop\parcial\servicenotebooks\tipo.h
+
+1589585384 c:\users\eze-\desktop\parcial\servicenotebooks\marca.h
+
+1589590206 source:c:\users\eze-\desktop\parcial\servicenotebooks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Egil.h"
+	"datawarehouse.h"
+
+1589585496 c:\users\eze-\desktop\parcial\servicenotebooks\datawarehouse.h
+
